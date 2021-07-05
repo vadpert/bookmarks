@@ -9,3 +9,8 @@
 
 # Bitcoin dev
 [Bitcoin Core Development on MacOS — A Step by Step Guide](https://medium.com/coincorner/bitcoin-core-development-on-macos-a-step-by-step-guide-5ecf8b17eb49)
+
+
+https://www.drbits.org/2014/building-bitcoin-core-with-xcode/
+https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md
+
