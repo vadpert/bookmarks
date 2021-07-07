@@ -14,3 +14,5 @@
 https://www.drbits.org/2014/building-bitcoin-core-with-xcode/
 https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md
 
+[How to Bitcoin regtest](https://gist.github.com/System-Glitch/cb4e87bf1ae3fec9925725bb3ebe223a)
+
