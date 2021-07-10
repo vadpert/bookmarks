@@ -24,3 +24,7 @@
 
 # Signatures
 1. [github.com/de-cryptor/Advanced-Cryptography](https://github.com/de-cryptor/Advanced-Cryptography)
+
+
+# Verifiability
+1. [Microsoft Confidential Verifiable Service](https://github.com/microsoft/CCF/blob/main/CCF-TECHNICAL-REPORT.pdf)
