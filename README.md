@@ -32,3 +32,6 @@
 
 # Meta Mask
 1 [Meta Mask Docs](https://docs.metamask.io/guide/metamask-extension-provider.html#installation)
+
+# Security
+1. [Solidity Security Considerations](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
