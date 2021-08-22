@@ -37,3 +37,9 @@
 1. [Solidity Security Considerations](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 2. [Consensys Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 3. [Git: Ethereum smart contracts security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+
+
+# Gas
+1. [https://b10c.me/mempool-observations/3-blockchaincom-recommendations/][Blockchain.com feerate recommendations]
+
+
