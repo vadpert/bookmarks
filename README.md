@@ -20,6 +20,7 @@
 
 5. [How To Setup A Custom Bitcoin Testnet?](https://www.ulam.io/blog/how-to-setup-a-custom-bitcoin-testnet/)
 
+6. [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/04_2_Creating_a_Raw_Transaction.md][Learning-Bitcoin-from-the-Command-Line]
 
 
 # Signatures
