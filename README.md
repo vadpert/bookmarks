@@ -22,6 +22,8 @@
 
 6. [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/04_2_Creating_a_Raw_Transaction.md][Learning-Bitcoin-from-the-Command-Line]
 
+7. [Wiki:Transaction](https://en.bitcoin.it/wiki/Transaction)
+
 
 # Signatures
 1. [github.com/de-cryptor/Advanced-Cryptography](https://github.com/de-cryptor/Advanced-Cryptography)
