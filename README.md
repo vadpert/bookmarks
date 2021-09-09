@@ -10,19 +10,27 @@
 
 
 # Bitcoin dev
+## Mac Build
 1. [Bitcoin Core Development on MacOS — A Step by Step Guide](https://medium.com/coincorner/bitcoin-core-development-on-macos-a-step-by-step-guide-5ecf8b17eb49)
 
 2. https://www.drbits.org/2014/building-bitcoin-core-with-xcode/
 
 3. https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md
 
-4. [How to Bitcoin regtest](https://gist.github.com/System-Glitch/cb4e87bf1ae3fec9925725bb3ebe223a)
+## Unix Build
+1. [Build Unix](https://github.com/bitcoin/bitcoin/blob/master/doc/build-unix.md)
 
-5. [How To Setup A Custom Bitcoin Testnet?](https://www.ulam.io/blog/how-to-setup-a-custom-bitcoin-testnet/)
+## Test Net
+1. [How to Bitcoin regtest](https://gist.github.com/System-Glitch/cb4e87bf1ae3fec9925725bb3ebe223a)
 
-6. [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/04_2_Creating_a_Raw_Transaction.md][Learning-Bitcoin-from-the-Command-Line]
+## Command Line
+1. [How To Setup A Custom Bitcoin Testnet?](https://www.ulam.io/blog/how-to-setup-a-custom-bitcoin-testnet/)
 
+1. [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/04_2_Creating_a_Raw_Transaction.md][Learning-Bitcoin-from-the-Command-Line]
+
+## Code
 7. [Wiki:Transaction](https://en.bitcoin.it/wiki/Transaction)
+
 
 
 # Signatures
