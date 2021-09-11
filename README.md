@@ -24,13 +24,12 @@
 1. [How to Bitcoin regtest](https://gist.github.com/System-Glitch/cb4e87bf1ae3fec9925725bb3ebe223a)
 
 ## Command Line
-1. [How To Setup A Custom Bitcoin Testnet?](https://www.ulam.io/blog/how-to-setup-a-custom-bitcoin-testnet/)
 
 1. [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/04_2_Creating_a_Raw_Transaction.md][Learning-Bitcoin-from-the-Command-Line]
 
 ## Code
-7. [Wiki:Transaction](https://en.bitcoin.it/wiki/Transaction)
-
+1. [Wiki:Transaction](https://en.bitcoin.it/wiki/Transaction)
+1. [How to Fork Bitcoin](https://medium.com/@jordan.baczuk/how-to-fork-bitcoin-part-2-59b9eddb49a4)
 
 
 # Signatures
@@ -51,6 +50,6 @@
 
 
 # Gas
-1. [https://b10c.me/mempool-observations/3-blockchaincom-recommendations/][Blockchain.com feerate recommendations]
+1. [Blockchain.com feerate recommendations](https://b10c.me/mempool-observations/3-blockchaincom-recommendations/)
 
 
