@@ -18,6 +18,9 @@
 ## Unix Build
 1. [Build Unix](https://github.com/bitcoin/bitcoin/blob/master/doc/build-unix.md)
 
+## Windows
+1. https://github.com/bitcoin/bitcoin/blob/master/build_msvc/README.md
+
 ## Test Net
 1. [How to Bitcoin regtest](https://gist.github.com/System-Glitch/cb4e87bf1ae3fec9925725bb3ebe223a)
 
