@@ -69,3 +69,9 @@
 # Gas
 1. [Blockchain.com feerate recommendations](https://b10c.me/mempool-observations/3-blockchaincom-recommendations/)
 
+
+
+# Community
+1. https://bitcointalk.org/
+1. https://www.reddit.com/r/Bitcoin/
+
