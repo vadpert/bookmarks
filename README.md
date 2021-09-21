@@ -35,8 +35,9 @@
 
 # Wallets / Explorers / ...
 
-## Meta Mask
+## Dap (ETH) Wallets
 1. https://docs.metamask.io/guide/metamask-extension-provider.html#installation
+1. https://walletconnect.org/
 
 ## Bitcoin Wallet
 
