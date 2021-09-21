@@ -68,6 +68,9 @@
 1. [Blockchain.com feerate recommendations](https://b10c.me/mempool-observations/3-blockchaincom-recommendations/)
 
 
+# Dex
+1. https://github.com/decred/dcrdex
+
 
 # Community
 1. https://bitcointalk.org/
