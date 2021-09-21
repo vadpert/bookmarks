@@ -43,8 +43,6 @@
 1. https://github.com/bitpay/wallet
 
 ## Blockchain Explorer
-
-### Open Source
 1. https://github.com/bitpay/bitcore/tree/master/packages/insight
 
 ## Lists 
